@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - React, Node.js
 - Git, Docker
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tons613&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tons613&show_icons=true)
